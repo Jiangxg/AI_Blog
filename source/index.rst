@@ -11,3 +11,4 @@ Welcome to AI_Blog's documentation!
    :caption: Contents:
 
    test
+   test2
