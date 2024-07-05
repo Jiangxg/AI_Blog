@@ -13,7 +13,7 @@ version = '1.0'
 release = '1.0'
     
 extensions = [
-    #'myst_parser',
+    'myst_parser',
     "sphinxcontrib.mermaid",
     "sphinx_copybutton",
 ]
@@ -24,13 +24,13 @@ source_suffix = {
     '.md': 'markdown',
 }
 
-'''
+
 myst_enable_extensions = [
     "tasklist",
     "deflist",
     "dollarmath",
 ]
-'''
+
 
 templates_path = ['_templates']
 exclude_patterns = []
